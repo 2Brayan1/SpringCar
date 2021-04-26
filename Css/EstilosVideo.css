@@ -93,7 +93,9 @@ body{
     transform: translate(7px, -150px);
 }
 
-
+#seccion2{
+    border-color: 30px;
+}
 #img3{
     
     margin-top: 30px;
